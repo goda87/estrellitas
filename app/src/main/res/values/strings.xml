@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Estrellitas</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_header_main_title">Bichito</string>
+    <string name="nav_header_main_subtitle">Dedicado a mi bichito</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
